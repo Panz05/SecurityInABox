@@ -1,0 +1,3 @@
+Inventory and Control of Hardware Assets And Inventory Of Software Assets Has Been Combined In To A Single Policy.
+
+The Policy Can Be Found In The CIS#01 Folder

@@ -1,0 +1,2 @@
+SIEM - Wazuh - https://wazuh.com/product/ (Free - OpenSource)
+Asset Discovery - LANSweeper - https://www.lansweeper.com/ (Free Up To 100 Devices)
