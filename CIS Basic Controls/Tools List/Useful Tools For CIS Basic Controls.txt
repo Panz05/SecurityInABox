@@ -1,2 +1,16 @@
-SIEM - Wazuh - https://wazuh.com/product/ (Free - OpenSource)
+CIS#1 & CIS#2
 Asset Discovery - LANSweeper - https://www.lansweeper.com/ (Free Up To 100 Devices)
+Asset Discovery - OCSInventory - https://ocsinventory-ng.org/?page_id=878&lang=en (Free - OpenSource)
+
+CIS#3
+Patch Management - 
+Vulnerability Management - 
+Feeds - CVE Feeds - https://cve.mitre.org/cve/data_feeds.html (Free)
+Feeds - CVE Details - https://www.cvedetails.com/ (Free)
+CIS#4
+
+CIS#5
+OS Deployment - FOG Project - https://fogproject.org/ (Free - OpenSource)
+
+CIS#6
+SIEM - Wazuh - https://wazuh.com/product/ (Free - OpenSource)
