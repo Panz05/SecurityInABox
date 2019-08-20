@@ -1,1 +1,0 @@
-Use The CIS Benchmark Documents In The CIS#4 Folder To Help Secure Your Hardware & Software Assets.
